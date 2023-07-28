@@ -1,3 +1,3 @@
 # effusion
 
-TypeScript do-hickey
+TypeScript do-hickey, absolute banger >w<
