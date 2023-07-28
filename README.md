@@ -1,2 +1,3 @@
 # effusion
-NPM do-hickey
+
+TypeScript do-hickey
