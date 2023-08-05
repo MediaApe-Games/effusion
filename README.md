@@ -2,6 +2,17 @@
 
 A next generation social media backend. Just drop in your own frontend.
 
+# Features
+
+1. Basic social media functionality
+2. A stock market
+
+# Requires
+
+1. NodeJS
+2. A functioning brain
+3. Scrongly bungus's
+
 # Usage
 
 Here's an example of how Effusion would be used with React
